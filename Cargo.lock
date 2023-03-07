@@ -3312,7 +3312,7 @@ dependencies = [
 [[package]]
 name = "hyper-reverse-proxy"
 version = "0.5.2-dev"
-source = "git+https://github.com/chesedo/hyper-reverse-proxy?branch=bug/host_header#5f82b7dffe940abf896fe47dadf6c8e87ddc670b"
+source = "git+https://github.com/Munksgaard/hyper-reverse-proxy?branch=bug/host_header#bf8bb20be647ef729543df0944fd226f8a4746be"
 dependencies = [
  "hyper",
  "lazy_static",
