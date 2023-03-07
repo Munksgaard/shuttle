@@ -19,7 +19,7 @@ futures = "0.3.25"
 http = { workspace = true }
 hyper = { workspace = true, features = [ "stream" ] }
 # not great, but waiting for WebSocket changes to be merged
-hyper-reverse-proxy = { git = "https://github.com/chesedo/hyper-reverse-proxy", branch = "bug/host_header" }
+hyper-reverse-proxy = { git = "https://github.com/Munksgaard/hyper-reverse-proxy", branch = "bug/host_header" }
 instant-acme = "0.1.1"
 lazy_static = "1.4.0"
 num_cpus = "1.14.0"
